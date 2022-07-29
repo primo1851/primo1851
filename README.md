@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @primo1851
 - 👀 I’m interested in OOP, Backend and Cyber security.
-- 🌱 I’m currently learning Java, JavaScript, TypeScript and C++
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Java, JavaScript, TypeScript and C++ 
 - 📫 How to reach me linkedin.com/in/luiza-primo-78714a209/ or primo6306@outlook.com
 
 <!---
